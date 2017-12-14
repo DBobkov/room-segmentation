@@ -1,1 +1,7 @@
+# Site settings
 theme: jekyll-theme-cayman
+title: Website
+email: 
+description: 
+baseurl: ""
+url: "http://room-segmentation.github.io"
