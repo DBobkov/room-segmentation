@@ -11,6 +11,8 @@ Emerging applications, such as indoor navigation or facility management, present
 1. Framework to compute interior free space without assuming knowledge of scanner poses or the Manhattan-world structure of indoor environments.
 2. 3D formulation of anisotropic PF computation for free space that is robust to the impact of clutter and occlusion and makes no assumptions on the room layout.
 
+For full-text of the paper, see <a href="http://www.lmt.ei.tum.de/forschung/publikationen/dateien/Bobkov2017Roomsegmentationin3D.pdf"> Preprint </a> or <a href="http://ieeexplore.ieee.org/document/8019484/">IEEE version</a>. For short overview, you can also see <a href="assets/poster.pdf">A3 poster</a>.
+
 ## Basic intuition
 
 <img src="assets/teaser.png" alt="Overview" width="500">
