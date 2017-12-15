@@ -1,5 +1,5 @@
 title: Room segmentation in point clouds
-description: Supplementary material for the paper "Room segmentation in 3D point clouds using anisotropic potential fields" presented at International Conference on Multimedia and Expo (ICME), Hong Kong, July 2017.
+description: Supplementary material for the paper by D. Bobkov, M. Kiechle, S. Hilsenbeck, E. Steinbach "Room segmentation in 3D point clouds using anisotropic potential fields" presented at International Conference on Multimedia and Expo (ICME), Hong Kong, July 2017.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
