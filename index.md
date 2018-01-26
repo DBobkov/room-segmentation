@@ -59,4 +59,6 @@ Raw pointcloud of the entire buildings (3 used buildings with XYZ and RGB inform
 3.  S. Ikehata, H. Yang, and Y. Furukawa, “Structured indoor modeling,” in IEEE International Conference on Computer Vision, December 2015, pp. 1323–1331.
 
 # Contact
-For any questions or inquiries, please contact Dmytro Bobkov at dmytro.bobkov@tum.de with a subject "Segmentation ICME".
+For any questions or inquiries, please contact Dmytro Bobkov at _email address below_ with a subject "Segmentation ICME".
+
+<img src="assets/email.png" alt="Email" width="150">
