@@ -11,7 +11,7 @@ Emerging applications, such as indoor navigation or facility management, present
 1. Framework to compute interior free space without assuming knowledge of scanner poses or the Manhattan-world structure of indoor environments.
 2. 3D formulation of anisotropic PF computation for free space that is robust to the impact of clutter and occlusion and makes no assumptions on the room layout.
 
-For full-text of the paper, see <a href="assets/paper.pdf"> Preprint </a> or <a href="http://ieeexplore.ieee.org/document/8019484/">IEEE version</a>. For short overview, you can also see <a href="assets/poster.pdf">A3 poster</a>. Access the dataset used in the paper, <a href="https://mega.nz/file/7h8nESab#2OqnkMyw-DUILEaoAsNC-QpgQN5DYo4fPtBPjwPgx5Y">here</a>.
+For full-text of the paper, see <a href="assets/paper.pdf"> Preprint </a> or <a href="http://ieeexplore.ieee.org/document/8019484/">IEEE version</a>. For short overview, you can also see <a href="assets/poster.pdf">A3 poster</a>.
 
 # Basic intuition
 
@@ -31,7 +31,8 @@ For full-text of the paper, see <a href="assets/paper.pdf"> Preprint </a> or <a 
 
 ## Dataset
 
-Raw pointcloud of the entire buildings (3 used buildings with XYZ and RGB information for each point) can be accessed <a href="http://www.lmt.ei.tum.de/fileadmin/user_upload/bobkov/Object_segmentation_dataset/object_segmentation_building_dataset.zip">here</a>.
+Raw pointcloud of the entire buildings (3 used buildings with XYZ information for each point) can be accessed <a href="https://mega.nz/file/7h8nESab#2OqnkMyw-DUILEaoAsNC-QpgQN5DYo4fPtBPjwPgx5Y">here</a>.
+
 
 ## Results for Mura et al. [1] dataset
 
